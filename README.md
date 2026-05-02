@@ -45,6 +45,10 @@ npx playwright test
 ## 📊 Test Report
 Playwright HTML report is generated and stored as an artifact in GitHub Actions.
 
+## 📸 Sample Test Execution
+<img width="1683" height="876" alt="image" src="https://github.com/user-attachments/assets/7e85fb6e-8ea4-476b-b9e4-83b1f62bc178" />
+
+
 ## 👨‍💻 Author
 Dinesh Kumar  
 GitHub: https://github.com/Dineshkumar9228
