@@ -22,3 +22,5 @@ This project demonstrates end-to-end automation testing using Playwright with Pa
 5. API response validation
 
 ## Project Structure
+
+![CI](https://github.com/Dineshkumar9228/automation-testing-project/actions/workflows/playwright.yml/badge.svg)
