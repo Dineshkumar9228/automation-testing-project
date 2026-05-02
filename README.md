@@ -1,13 +1,14 @@
-# Automation Testing Project
+# Automation Testing Project (Playwright)
 
 ## Overview
-This project demonstrates end-to-end automation testing using Playwright.
+This project demonstrates end-to-end automation testing using Playwright with Page Object Model (POM) design pattern.
 
 ## Features
 - UI Automation (Login, Add to Cart, Checkout)
 - API Testing (User API validation)
-- Page Object Model (POM) design pattern
-- End-to-End workflow validation
+- Page Object Model (POM)
+- CI/CD using GitHub Actions
+- HTML Test Reports
 
 ## Tech Stack
 - Playwright (JavaScript)
@@ -20,9 +21,4 @@ This project demonstrates end-to-end automation testing using Playwright.
 4. Validate order success message
 5. API response validation
 
-## How to Run
-npm install  
-npx playwright test
-npx playwright test --headed
-npx playwright show-report
-npm install -g allure-commandline    //for industry standard ui test reports
+## Project Structure
